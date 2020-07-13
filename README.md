@@ -1,9 +1,42 @@
 # dpo-ml-2020
 Материалы блока 4 "Машинное обучение" [специализации DS](https://cs.hse.ru/dpo/datascientist)
 
-Семинарист: Евгений Ковалев (telegram: @KovalevEvgeny)
+Семинарист: Евгений Ковалев (telegram: [@KovalevEvgeny](https://t.me/KovalevEvgeny))
 
-Ассистент: Нарек Алвандян (telegram: @narekvslife)
+Ассистент: Нарек Алвандян (telegram: [@narekvslife](https://t.me/narekvslife))
+
+Лекции проходят по вторникам с 19:00 до 22:00.
+
+## Формула оценки
+
+- Оценка_итоговая = 0.8 * Оценка_ДЗ + 0.2 * Оценка_тесты
+- 10-балльная система оценивания
+- Для зачета нужно получить 6 и выше
+
+## Лекции
+
+**Лекция 1. Введение и основные задачи. _(23.06.2020)_**
+
+- [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture01-intro.pdf)
+- [Ноутбук по `numpy`](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem01_intro/sem01_numpy.ipynb)
+- [Ноутбук по `pandas`](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem01_intro/sem01_pandas.ipynb)
+- [Ноутбук по `matplotlib`](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem01_intro/sem01_matplotlib.ipynb)
+
+**Лекция 2. Линейная регрессия. _(30.06.2020)_**
+
+- [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture02-linreg.pdf)
+- [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem02_linreg/sem02_linreg.ipynb)
+
+**Лекция 3. Градиентные методы обучения. _(07.07.2020)_**
+
+- [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture03-grads.pdf)
+- [Ноутбук (версия с заданиями)](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem03_grads/sem03_grads.ipynb)
+- [Ноутбук (версия с решениями)](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem03_grads/sem03_grads-solved.ipynb)
+
+**Лекция 4. Линейная классификация и метрики качества классификации. _(14.07.2020)_**
+
+- [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture04-linclass.pdf)
+- [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem04_linclass/sem04_linclass.ipynb)
 
 ## Домашние задания
 
@@ -15,13 +48,10 @@
 
 **Домашнее задание №1**
 
-- *Темы:* numpy, pandas, matplotlib
-
+- *Темы:* `numpy`, `pandas`, `matplotlib`
 - *Ссылка:* https://github.com/KovalevEvgeny/dpo-ml-2020/tree/master/homeworks/hw01
-
 - *Дата выдачи:* 30.06.2020
-
-- *Дедлайн:* 14.07.2020 23:59
+- *Дедлайн:* **14.07.2020 23:59**
 
 ## Ссылки
 
