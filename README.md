@@ -7,6 +7,8 @@
 
 Лекции проходят по вторникам с 19:00 до 22:00.
 
+Таблица с оценками: https://docs.google.com/spreadsheets/d/1miyCGvU1o9fHAP4VhNxBaQ68AAxEONXSSYgWENgtEc4/edit#gid=0
+
 ## Формула оценки
 
 - Оценка_итоговая = 0.8 * Оценка_ДЗ + 0.2 * Оценка_тесты
@@ -43,6 +45,11 @@
 - [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture05-logreg_svm.pdf)
 - [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem05_linclass_svm/sem05_logreg_svm.ipynb)
 
+**Лекция 6. Многоклассовая классификация, работа с категориальными признаками и текстами. _(28.07.2020)_**
+
+- [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture06-multiclass_categorical.pdf)
+- [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem06_texts/sem06_texts.ipynb)
+
 ## Домашние задания
 
 За сдачу задания позже срока на итоговую оценку за задание накладывается штраф в размере 0.25 балла в день, но получить отрицательную оценку нельзя.
@@ -63,7 +70,19 @@
 - *Темы:* Линейная регрессия и градиентный спуск
 - *Ссылка:* https://github.com/KovalevEvgeny/dpo-ml-2020/tree/master/homeworks/hw02
 - *Дата выдачи:* 17.07.2020
-- *Дедлайн:* **31.07.2020 23:59**
+- *Дедлайн:* **02.08.2020 23:59**
+
+## Что почитать
+
+У первых 4 книг есть перевод на русский язык, но советую читать в оригинале.
+
+- *S. Raschka, V. Mirjalili.* Python Machine Learning: Machine Learning and Deep Learning with Python, Scikit-learn, and TensorFlow
+- *Aurélien Géron*. Hands-On Machine Learning with Scikit-Learn and TensorFlow (2nd Edition)
+- *Andriy Burkov*. The Hundred-Page Machine Learning Book
+- *Andrew Ng*. Machine Learning Yearning
+- *Yaser Abu Mostafa, Malik Magdon-Ismail, and Hsuan-Tien Lin*. Learning from Data: A Short Course
+- *G. James, D. Witten, T. Hastie, R. Tibshirani*. An Introduction to Statistical Learning
+- *T. Hastie, R. Tibshirani, J. Friedman*. The Elements of Statistical Learning
 
 ## Ссылки
 
