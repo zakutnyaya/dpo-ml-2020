@@ -60,6 +60,28 @@
 - [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture08-ensembles.pdf)
 - [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem08_ensembles/sem08_ensembles.ipynb)
 
+**Лекция 9. Градиентный бустинг. _(15.09.2020)_**
+
+- [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture09-gradboost.pdf)
+- [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem09_gradboost/sem09_gradboost.ipynb)
+
+**Лекция 10. Градиентный бустинг: имплементации. _(22.09.2020)_**
+
+- [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture10-gradboost2.pdf)
+- [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem10_gradboost2/sem10_gradboost2.ipynb)
+
+**Лекция 11. Отбор признаков и понижение размерности.**
+
+**Лекция 12. Кластеризация.**
+
+**Лекция 13. Поиск аномалий.**
+
+**Лекция 14. Рекомендательные системы.**
+
+**Лекция 15. Ранжирование.**
+
+**Лекция 16. Заключение.**
+
 ## Домашние задания
 
 За сдачу задания позже срока на итоговую оценку за задание накладывается штраф в размере 0.25 балла в день, но получить отрицательную оценку нельзя.
