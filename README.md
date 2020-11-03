@@ -100,8 +100,12 @@
 
 - [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture15-ranking.pdf)
 - [Ноутбук](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem15_ranking/sem15_ranking.ipynb)
+- [Ноутбук (заполненная версия с семинара)](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/seminars/sem15_ranking/sem15_ranking_filled.ipynb)
 
-**Лекция 16. Заключение.**
+**Лекция 16. Заключение, соревнования. _(03.11.2020)_**
+
+- [Презентация](https://nbviewer.jupyter.org/github/KovalevEvgeny/dpo-ml-2020/blob/master/lectures/lecture16-final.pdf)
+- [Ноутбук в Google Colab](https://colab.research.google.com/drive/1df3t-h0Jo9aUQUd_TlUVLnNETEJyu91o?usp=sharing)
 
 ## Домашние задания
 
@@ -139,6 +143,13 @@
 - *Ссылка:* https://github.com/KovalevEvgeny/dpo-ml-2020/tree/master/homeworks/hw04
 - *Дата выдачи:* 11.10.2020
 - *Дедлайн:* **28.10.2020 23:59**
+
+**Домашнее задание №5 (дополнительное)**
+
+- *Темы:* Кластеризация
+- *Ссылка:* https://github.com/KovalevEvgeny/dpo-ml-2020/tree/master/homeworks/hw05
+- *Дата выдачи:* 27.10.2020
+- *Дедлайн:* **10.11.2020 23:59**
 
 ## Что почитать
 
